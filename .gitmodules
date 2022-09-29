@@ -1,3 +1,9 @@
 [submodule "new_client"]
 	path = new_client
 	url = https://github.com/WUY97/goodgoodCV_client
+[submodule "goodgoodCV_client"]
+	path = goodgoodCV_client
+	url = https://github.com/WUY97/goodgoodCV_client.git
+[submodule "client"]
+	path = client
+	url = https://github.com/WUY97/goodgoodCV_client.git
